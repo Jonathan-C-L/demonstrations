@@ -1,0 +1,20 @@
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\bin\Debug\Employee Display and Sorting.exe.config
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\bin\Debug\Employee Display and Sorting.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\bin\Debug\Employee Display and Sorting.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\obj\Debug\Employee Display and Sorting.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\obj\Debug\Lab2_Jonathan_Le.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\obj\Debug\Employee_Display_and_Sorting.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\obj\Debug\Employee Display and Sorting.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\obj\Debug\Employee Display and Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\obj\Debug\Employee Display and Sorting.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab2 Jonathan Le\obj\Debug\Employee Display and Sorting.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\obj\Debug\Employee Display and Sorting.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\obj\Debug\Employee_Display_and_Sorting.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\obj\Debug\Employee_Display_and_Sorting.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\obj\Debug\Employee Display and Sorting.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\obj\Debug\Employee Display and Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\obj\Debug\Employee Display and Sorting.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\obj\Debug\Employee Display and Sorting.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\bin\Debug\Employee Display and Sorting.exe.config
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\bin\Debug\Employee Display and Sorting.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Employee Display and Sorting\bin\Debug\Employee Display and Sorting.pdb

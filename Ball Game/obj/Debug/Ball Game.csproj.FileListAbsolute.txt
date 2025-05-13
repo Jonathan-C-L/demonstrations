@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\bin\Debug\Ball Game.exe.config
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\bin\Debug\Ball Game.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\bin\Debug\Ball Game.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\bin\Debug\GDIDrawer.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball Game.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball_Game.AnimationModeless_Dialog.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball_Game.DifficultyModalDialog.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball_Game.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball_Game.HighScoreModalDialog.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball_Game.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball_Game.ScoreModelessDialog.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball Game.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball Game.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball Game.csproj.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball Game.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Lab3 Jonathan\obj\Debug\Ball Game.pdb

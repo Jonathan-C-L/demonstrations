@@ -1,0 +1,12 @@
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\bin\Debug\Lab 4 Jonathan Le.exe.config
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\bin\Debug\Lab 4 Jonathan Le.exe
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\bin\Debug\Lab 4 Jonathan Le.pdb
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\bin\Debug\GDIDrawer.dll
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab 4 Jonathan Le.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab_4_Jonathan_Le.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab_4_Jonathan_Le.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab 4 Jonathan Le.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab 4 Jonathan Le.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab 4 Jo.DD445C91.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab 4 Jonathan Le.exe
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab 4 Jonathan Le\obj\Debug\Lab 4 Jonathan Le.pdb

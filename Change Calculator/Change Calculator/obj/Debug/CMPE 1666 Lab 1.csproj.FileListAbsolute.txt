@@ -1,0 +1,17 @@
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\CMPE 1666 Lab 1.exe.config
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\CMPE 1666 Lab 1.exe
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\CMPE 1666 Lab 1.pdb
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\GDIDrawer.dll
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 166.0F2EF576.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.exe
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\CMPE 1666 Lab 1.exe.config
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\CMPE 1666 Lab 1.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\CMPE 1666 Lab 1.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 166.0F2EF576.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\CMPE 1666 Lab 1.pdb

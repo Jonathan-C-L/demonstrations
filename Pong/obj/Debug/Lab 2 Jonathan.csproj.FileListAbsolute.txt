@@ -1,0 +1,9 @@
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\bin\Debug\Lab 2 Jonathan.exe.config
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\bin\Debug\Lab 2 Jonathan.exe
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\bin\Debug\Lab 2 Jonathan.pdb
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\bin\Debug\GDIDrawer.dll
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\obj\Debug\Lab 2 Jonathan.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\obj\Debug\Lab 2 Jonathan.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\obj\Debug\Lab 2 Jo.7CCA5C0F.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\obj\Debug\Lab 2 Jonathan.exe
+C:\Users\Jonathan\Desktop\GitHub\Archived\computer-engineering-nait-cmpe1300-1241a02-Jonathan-C-L\labs\Lab 2 Jonathan\obj\Debug\Lab 2 Jonathan.pdb

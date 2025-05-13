@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\Employee Display and Sorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12FB39A3-70B7-4E5A-8F2E-A3F9F7FEE5E7}|Employee Display and Sorting.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\employee display and sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FB39A3-70B7-4E5A-8F2E-A3F9F7FEE5E7}|Employee Display and Sorting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FB39A3-70B7-4E5A-8F2E-A3F9F7FEE5E7}|Employee Display and Sorting.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\employee display and sorting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FB39A3-70B7-4E5A-8F2E-A3F9F7FEE5E7}|Employee Display and Sorting.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FB39A3-70B7-4E5A-8F2E-A3F9F7FEE5E7}|Employee Display and Sorting.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\employee display and sorting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12FB39A3-70B7-4E5A-8F2E-A3F9F7FEE5E7}|Employee Display and Sorting.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\Employee Display and Sorting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\Employee Display and Sorting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:02:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\Employee Display and Sorting\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\Employee Display and Sorting\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:01:57.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\Employee Display and Sorting\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\Employee Display and Sorting\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:00:52.035Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\bin\Debug\Lab3 Jonathan.exe.config
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\bin\Debug\Lab3 Jonathan.exe
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\bin\Debug\Lab3 Jonathan.pdb
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\bin\Debug\GDIDrawer.dll
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3 Jonathan.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3_Jonathan.AnimationModeless_Dialog.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3_Jonathan.DifficultyModalDialog.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3_Jonathan.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3_Jonathan.HighScoreModalDialog.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3_Jonathan.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3_Jonathan.ScoreModelessDialog.resources
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3 Jonathan.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3 Jonathan.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3 Jon.0D696B8C.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3 Jonathan.exe
+C:\Users\Jonathan\Desktop\GitHub\cmpe1666-1242a02-Jonathan-C-L\labs\Lab3 Jonathan\obj\Debug\Lab3 Jonathan.pdb
