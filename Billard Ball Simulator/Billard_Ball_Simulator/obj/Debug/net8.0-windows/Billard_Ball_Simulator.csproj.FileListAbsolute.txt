@@ -1,0 +1,40 @@
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\bin\Debug\net8.0-windows\Billard_Ball_Simulator.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\bin\Debug\net8.0-windows\Billard_Ball_Simulator.deps.json
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\bin\Debug\net8.0-windows\Billard_Ball_Simulator.runtimeconfig.json
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\bin\Debug\net8.0-windows\Billard_Ball_Simulator.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\bin\Debug\net8.0-windows\Billard_Ball_Simulator.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\bin\Debug\net8.0-windows\GDIDrawer.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.sourcelink.json
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_.DEFFB8E0.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\refint\Billard_Ball_Simulator.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\Billard_Ball_Simulator.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\lab2_JonathanL\lab2_JonathanL\obj\Debug\net8.0-windows\ref\Billard_Ball_Simulator.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\bin\Debug\net8.0-windows\Billard_Ball_Simulator.exe
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\bin\Debug\net8.0-windows\Billard_Ball_Simulator.deps.json
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\bin\Debug\net8.0-windows\Billard_Ball_Simulator.runtimeconfig.json
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\bin\Debug\net8.0-windows\Billard_Ball_Simulator.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\bin\Debug\net8.0-windows\Billard_Ball_Simulator.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\bin\Debug\net8.0-windows\GDIDrawer.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.sourcelink.json
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_.DEFFB8E0.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\refint\Billard_Ball_Simulator.dll
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.pdb
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\Billard_Ball_Simulator.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\GitHub\demonstrations\Billard Ball Simulator\Billard_Ball_Simulator\obj\Debug\net8.0-windows\ref\Billard_Ball_Simulator.dll

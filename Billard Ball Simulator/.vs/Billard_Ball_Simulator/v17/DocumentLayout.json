@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\lab2_jonathanl\\lab2_jonathanl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|solutionrelative:lab2_jonathanl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\lab2_jonathanl\\lab2_jonathanl\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|solutionrelative:lab2_jonathanl\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\Billard_Ball_Simulator.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\lab2_jonathanl\\lab2_jonathanl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\Billard_Ball_Simulator.csproj|solutionrelative:lab2_jonathanl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\Billard_Ball_Simulator.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\lab2_jonathanl\\lab2_jonathanl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\Billard_Ball_Simulator.csproj|solutionrelative:lab2_jonathanl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\lab2_jonathanl\\lab2_jonathanl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|solutionrelative:lab2_jonathanl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|c:\\users\\jonathan\\desktop\\github\\demonstrations\\lab2_jonathanl\\lab2_jonathanl\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4551ECE6-289B-4815-82D7-FAA6BF288000}|lab2_JonathanL\\lab2_JonathanL.csproj|solutionrelative:lab2_jonathanl\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Form1.cs",
+              "RelativeDocumentMoniker": "lab2_JonathanL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Form1.cs [Design]",
+              "RelativeToolTip": "lab2_JonathanL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:18:22.716Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Ball.cs",
+              "RelativeDocumentMoniker": "lab2_JonathanL\\Ball.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Ball.cs",
+              "RelativeToolTip": "lab2_JonathanL\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:22:16.368Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_JonathanL\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Program.cs",
+              "RelativeToolTip": "lab2_JonathanL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:15:06.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lab2_JonathanL\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Form1.Designer.cs",
+              "RelativeToolTip": "lab2_JonathanL\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:14:39.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Table.cs",
+              "RelativeDocumentMoniker": "lab2_JonathanL\\Table.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Table.cs",
+              "RelativeToolTip": "lab2_JonathanL\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:22:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Form1.cs",
+              "RelativeDocumentMoniker": "lab2_JonathanL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\demonstrations\\lab2_JonathanL\\lab2_JonathanL\\Form1.cs",
+              "RelativeToolTip": "lab2_JonathanL\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:18:33.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
