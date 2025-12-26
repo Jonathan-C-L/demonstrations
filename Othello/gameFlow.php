@@ -1,14 +1,8 @@
 <?php
-// enum for play tile (backed enum - contains only backed cases)
 // MUST be done before die(); - will not recognize otherwise
-enum Tile: int{
-    case Black = 9679; // backed case for black
-    case White = 9675; // backed case for white
-    // pure cases do not have a assignment - can only be all pure or all backed
-}
+
 // globals
-$black = Tile::Black->value;
-$white = Tile::White->value;
+// x/y-Checks are the coordinates for the recursive checks in each direction
 $xChecks = array(-1, 1, 0, 0, 1, 1, -1, -1);
 $yChecks = array(0, 0, 1, -1, 1, -1, 1, -1);
 
@@ -68,7 +62,7 @@ function StartGame(){
     $_SESSION["playerTurn"] = $_SESSION["first"]; // if a new player turn hasn't been sent from the client side, use the default session value
     $_SESSION["state"] = "play"; // allows game logic to be run
 
-    availablePlays($black);
+    AvailablePlays($black);
     // array that holds the info to send to the client
     return array(
         "playable" => $_SESSION["playable"],
@@ -225,11 +219,11 @@ function Flippable($x, $y, $dirX, $dirY, $ownTile, $otherTile){
     return false;
 }
 /** 
- * availablePlays() will recursively check every position that is eligible to be a played piece and will store
+ * AvailablePlays() will recursively check every position that is eligible to be a played piece and will store
  * the positions of the valid play spots in $_SESSION
  * @param $currentTile is the current play tile color
  */
-function availablePlays($currentTile){
+function AvailablePlays($currentTile){
     global $black, $white, $xChecks, $yChecks;
 
     $gameGrid = $_SESSION["gameGrid"];
@@ -376,7 +370,7 @@ function SendGameData(){
     if($_SESSION["state"] == "play"){
         NextTurn();
         $currentTile = ($_SESSION["playerTurn"] == $_SESSION["first"]) ? $black : $white;
-        availablePlays($currentTile);
+        AvailablePlays($currentTile);
     }
 
     return array(

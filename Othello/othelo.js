@@ -10,7 +10,6 @@ $(document).ready(function()
 {
     $("#submit").click(ConnectToServer);  // Binding the click event handler to the function that will initiate 
                                      // our AJAX call
-
 });
 /* Summary: StartClick() prepares data on the state of the game, player1 and player2 names,
  *          then initates an ajax call to the server 
