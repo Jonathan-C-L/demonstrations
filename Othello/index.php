@@ -10,10 +10,10 @@
     <link rel="stylesheet" href="./styles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="./othelo.js"></script>
-    <title>Jonathan Le</title>
+    <title>Othello - Jonathan Le</title>
 </head>
 <body>
-    <header>Othelo</header>
+    <header>Othello</header>
     <main>
       <div class="player-input container">
           <h3>Enter your names below:</h3>

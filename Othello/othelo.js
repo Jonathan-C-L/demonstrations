@@ -198,14 +198,6 @@ function RenderBoard(gameGrid, playable){
  * Object containing the index of the board piece clicked and the turn of the player that played it
 */
 function SendPlayData(position, turn, state){
-    
-    console.log("SendPlayData()");
-    console.log({
-        "x": position.charAt(0), 
-        "y": position.charAt(1),
-        "playerTurn": turn,
-        "state": state
-    });
     return {
         "x": position.charAt(0), 
         "y": position.charAt(1),

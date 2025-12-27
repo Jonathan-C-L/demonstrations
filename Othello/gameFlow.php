@@ -2,18 +2,26 @@
 // MUST be done before die(); - will not recognize otherwise
 
 // globals
+enum Tile: int{
+    case Black = 9679; // backed case for black
+    case White = 9675; // backed case for white
+    // pure cases do not have a assignment - can only be all pure or all backed
+}
+// globals
+$black = Tile::Black->value;
+$white = Tile::White->value;
 // x/y-Checks are the coordinates for the recursive checks in each direction
 $xChecks = array(-1, 1, 0, 0, 1, 1, -1, -1);
 $yChecks = array(0, 0, 1, -1, 1, -1, 1, -1);
 
 session_start(); // start session, or connect to session if already started 
 
-error_log(json_encode($_POST));                   
+error_log(json_encode($_POST), destination: "./");                   
 
-$clean = CleanData($_POST); // clean all input data
+$clean = CleanData(); // clean all input data
 $output = array();  // create an array to be used to hold all data to be returned to the client.
 
-error_log(json_encode($clean));  // Make sure the data is still as we expect
+error_log(json_encode($clean), destination: "./");  // Make sure the data is still as we expect
 
 if(isset($clean["state"])){
     if ($clean["state"] == "check"){
@@ -32,7 +40,7 @@ if(isset($clean["quit"]) && $clean["quit"] == "quit"){
     session_destroy(); // completely eliminates all data related to the session, including variables
 }
 
-error_log(json_encode($output));  
+error_log(json_encode($output), destination: "./");  
 echo json_encode($output);  // Package and send data to the client. Only do this a single time per AJAX request.
 die();  // Stop execution of the PHP page here.  
         
@@ -334,6 +342,7 @@ function CheckResults(){
     $_SESSION["player1Score"] = $player1Tiles;
     $_SESSION["player2Score"] = $player2Tiles;
     $_SESSION["gameGrid"] = $gameGrid;
+    $_SESSION["winner"] = "na";
 
     if($_SESSION["skips"] >= 2){ // 2 skips occurs back to back
         $_SESSION["state"] = "end";
@@ -363,7 +372,7 @@ function CheckResults(){
 function SendGameData(){
     global $clean, $black, $white;
 
-    if($clean["x"] != 9 && $clean["$y"] != 9){
+    if($clean["x"] != 9 && $clean["y"] != 9){
         CheckValidPlay(); // check if the player placement is valid
     }
     CheckResults(); // check if any end-game conditions met (lose, tie, win)
