@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+#logo{
+    width: 18vw;
+}
+.error{
+    color: red;
+}
+label{
+    display: block;
+}
+input, select, button{
+    margin-bottom: 8px;
+}
+.container{
+    margin: 8px 32px;
+}
+#retrieve_output{
+    justify-items: center;
+}
+#retrieve_output>table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 2px 12px;
+}
+#confirmOrder, #updateOrder{
+    display: block;
+    justify-self: center;
+}
+#menu{
+    border: 1px solid black;
+}

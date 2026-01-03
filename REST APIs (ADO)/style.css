@@ -1,0 +1,83 @@
+/* reset */
+*{
+    color: #3396D3;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    --tableWidth: 70%;
+}
+body{
+    background-color: #F5F5F0;
+    text-align: center;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 0.4fr 3fr 0.2fr;
+    overflow-y: scroll;
+}
+button, input, select, option{
+    font: inherit;
+    font-size: inherit;
+}
+footer, header{
+    background-color: #E6D8C3;
+    height: 100%;
+    align-content: space-evenly;
+}
+header{
+    font-size: 3rem;
+}
+main{
+    justify-items: center;
+}
+table{
+    width: 100%;
+}
+table, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 2px 8px;
+}
+.action>button{
+    width: 60px;
+}
+th{
+    background-color: #E6D8C3;
+    padding: 4px 18px;
+    font-size: 1.2rem;
+}
+tr:nth-child(even){
+    background-color: #E6D8C3;
+}
+#insert{
+    width: 70%;
+    background-color: lightgrey;
+    padding: 12px 0 12px 0;
+}
+#insert div{
+    width: 100%;
+    display: flex;
+    gap: 8px;
+    margin-bottom: 2px;
+}
+#insert{
+    padding: 0 32px 0 32px;
+}
+#insert div:first-child{
+    justify-content: end;
+}
+#add_book{
+    margin-top: 8px;
+    width: 80%;
+}
+input, select, option{
+    color: grey;
+}
+select, input{
+    width: 60%;
+}
+#add_student{
+    width: 10%;
+}

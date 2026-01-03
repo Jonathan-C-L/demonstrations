@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ica9Service.props" />
+</Project>
