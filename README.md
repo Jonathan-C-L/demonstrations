@@ -8,7 +8,7 @@ The broad topics I learn in this program include, but not limited to:
 - Embedded Systems Development
 - PCB and Hardware Electronics Development
 - Databases
-## Specific Skills
+# Specific Skills
 Specific things I have learned in CNT include but not limited to:
 - Memory Management, Data Structures, Sorting Algorithms 
 - Object Oriented Programming (C#)
